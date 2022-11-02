@@ -9,11 +9,31 @@
     border: 1px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
     color: #fff;
+    padding: 1rem;
 }
 
 .btn-primary {
     color: #c300ff;
     background-color: #fff;
     border-color: #007bff;
-    margin-top: 1rem;
 }
+
+.btn-danger {
+    color: #dc3545;
+    background-color: #fff;
+    border-color: #dc3545;
+}
+
+.table {
+    background-color: #c300ff;
+    color: #fff;
+    background-clip: border-box;
+    border: 1px solid #00000020;
+    border-radius: 0.25rem;
+}
+
+.form-group-submit {
+    margin: 2rem 0 2rem 0;
+}
+
+
