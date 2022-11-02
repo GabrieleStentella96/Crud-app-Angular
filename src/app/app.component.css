@@ -1,0 +1,19 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #c300ff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    color: #fff;
+}
+
+.btn-primary {
+    color: #c300ff;
+    background-color: #fff;
+    border-color: #007bff;
+    margin-top: 1rem;
+}
